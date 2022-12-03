@@ -1,0 +1,10 @@
+{
+	"env": {
+		"PORT": "2999",
+		"LOG_ACCESS": "dev.log",
+		"DB_CONNECTION_STRING": "mongodb+srv://Grupo1:grupo1@cluster0.w7fptnx.mongodb.net/?retryWrites=true&w=majority",
+		"ACCESS_TOKEN_SECRET": "6fe47774-5cce-42ec-9055-2467f1d97aa0",
+		"REFRESH_TOKEN_SECRET": "ea96cf4e-3081-4f61-b143-0a3f2367d907",
+		"ALLOWED_HOST": "http://localhost:3000"
+	}
+}
